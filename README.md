@@ -1,3 +1,2 @@
-### hi! 👋
 
-I'm John. Soon-to-be web developer. Right now attending the neuefische 🎣 bootcamp, learning all the tools & technologies to be able to translate ideas into code. 💻💨 Eager to span a broad range, I have a knack on design and interaction. 🕊️
+<img width="1552" alt="hi" src="https://user-images.githubusercontent.com/77127212/129399515-abd83d26-a9ed-410f-931b-ff7e41277e8e.png">
